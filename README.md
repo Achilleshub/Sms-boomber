@@ -1,2 +1,1 @@
-# Sms-boomber
-Kurulum için discord'dan ulaşınız. 3>
+Kurulum için discordan ulaşınız discord.gg/achilles 3>

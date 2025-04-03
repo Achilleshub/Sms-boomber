@@ -1,2 +1,2 @@
 # Sms-boomber
-Kurulum için discord'dan ulaşınız.
+Kurulum için discord'dan ulaşınız. 3>
